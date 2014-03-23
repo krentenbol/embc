@@ -12,7 +12,7 @@
  * 
  */
 int main(int argc, char** argv) {
-    blabla
+    
     return (EXIT_SUCCESS);
 }
 
